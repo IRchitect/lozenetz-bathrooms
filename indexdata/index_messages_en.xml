@@ -9,10 +9,13 @@
 
 
 
-  <data name="en_pano9_title"><![CDATA[Бетон и мед]]></data>
+  <data name="en_pano9_title"><![CDATA[Гранит]]></data>
 
 
-  <data name="en_pano24_title"><![CDATA[Камък]]></data>
+  <data name="en_pano10_title"><![CDATA[Мазилка]]></data>
+
+
+  <data name="en_pano13_title"><![CDATA[Варовик]]></data>
 
 
 
@@ -21,6 +24,9 @@
 
   <data name="en_prevnexttheme2prevSceneTip"><![CDATA[Previous Scene]]></data>
   <data name="en_prevnexttheme2nextSceneTip"><![CDATA[Next Scene]]></data>
+
+
+
 
 
 
